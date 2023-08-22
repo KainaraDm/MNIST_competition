@@ -1,1 +1,2 @@
 # MNIST_competition
+This notebook has been developed for the Digit Recognizer Kaggle competition (https://www.kaggle.com/competitions/digit-recognizer). The objective is to predict numbers from images using computer vision techniques. To address this task, *Convolutional* and *Fully Connected Neural Networks* were employed. Furthermore, the model's performance was enhanced through the application of *Dropout* and *Batch Normalization* techniques. An accuracy of **0.99** was achieved.
